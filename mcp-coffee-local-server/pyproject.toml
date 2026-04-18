@@ -5,7 +5,7 @@ description = "A Model Context Protocol server for a coffee shop"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "google-adk>=0.3.0",
+    "google-adk>=1.28.1",
     "markdownify>=0.13.1",
     "mcp[cli]>=1.0.0",
     "protego>=0.3.1",

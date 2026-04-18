@@ -1,8 +1,8 @@
 google-cloud-discoveryengine==0.13.8
 google-genai==1.13.8
-google-adk==1.0.0
+google-adk>=1.28.1
 ipykernel
 rich
-google-cloud-aiplatform[adk,agent_engines,evaluation]==1.93.1
+google-cloud-aiplatform[adk,agent_engines,evaluation]>=1.133.0
 pytz
 anthropic==0.51.0
