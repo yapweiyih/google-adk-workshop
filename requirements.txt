@@ -6,8 +6,8 @@ rich
 google-cloud-aiplatform[adk,agent_engines,evaluation]>=1.133.0
 pytz
 anthropic==0.51.0
-jupyterlab>=4.5.7
-jupyter-server>=2.18.0
+jupyterlab>=4.5.9
+jupyter-server>=2.20.0
 notebook>=7.5.6
 litellm>=1.83.7
 mcp>=1.23.0

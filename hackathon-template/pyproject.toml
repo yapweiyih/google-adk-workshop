@@ -8,8 +8,8 @@ requires-python = ">=3.11"
 dependencies = [
     "google-adk>=1.28.1",
     "h11>=0.16.0",
-    "jupyter-server>=2.18.0",
-    "jupyterlab>=4.5.7",
+    "jupyter-server>=2.20.0",
+    "jupyterlab>=4.5.9",
     "litellm>=1.83.7",
     "lxml>=6.1.0",
     "mcp>=1.23.0",
