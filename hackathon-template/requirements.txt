@@ -1,6 +1,6 @@
 google-adk>=1.28.1
 python-dotenv
-jupyterlab>=4.5.9
+jupyterlab>=4.5.10
 jupyter-server>=2.20.0
 notebook>=7.5.6
 litellm>=1.83.7
